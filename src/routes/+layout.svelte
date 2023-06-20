@@ -5,8 +5,6 @@
 
 <Header />
   <slot />
-  
-  
 <Footer />
 
 <style>
